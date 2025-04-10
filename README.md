@@ -1,5 +1,5 @@
 # 💫 About Me:
-CEO & Founder @ WebSteam | Website Development, AI Solutions, Web3, Mobile App Development<br><br>💬 Ask me about Reactjs, JavaScript<br><br>📫 How to reach me ahsanrazainfo@gmail.com
+@WebSteam | Website Development, AI Solutions, Web3, Mobile App Development<br><br>💬 Ask me about Reactjs, JavaScript<br><br>📫 How to reach me ahsanrazainfo@gmail.com
 
 
 ## 🌐 Socials:
